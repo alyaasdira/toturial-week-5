@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Who Am I</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Internal CSS */
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+body {font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;}
+
+p {font-size: 16px}
+    <h1>Who Am I</h1>
+    
+    <p><strong>Full Name:</strong> <span style="color: green;">NUR ALYA ASDIRA BINTI ASMAWI</span></p> <!-- Inline style -->
+    <p><strong>Age:</strong> 22</p>
+    <p><strong>Educational Background:</strong> Studying New Media Communication at UniMAP.</p>
+</body>
+</html>
